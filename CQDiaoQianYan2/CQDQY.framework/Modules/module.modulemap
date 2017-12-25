@@ -1,0 +1,6 @@
+framework module CQDQY {
+  umbrella header "CQDQY.h"
+
+  export *
+  module * { export * }
+}
